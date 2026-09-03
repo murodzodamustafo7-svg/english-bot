@@ -15,7 +15,7 @@ from telegram.ext import (
 import database as db
 
 # ------------------ SETTINGS ------------------
-BOT_TOKEN = "PUT_YOUR TOKEN_HERE"   # аз @BotFather гиред
+"8337063739:AAENDrzBcFosyGh_FWUB8VxT4OTVL4Mg-bY"   # аз @BotFather гиред
 WORDS_PER_DAY = 10
 SEND_HOUR = 8      # соате, ки калимаҳо ҳар рӯз фиристода мешаванд (24-соата, вақти сервер)
 SEND_MINUTE = 0
